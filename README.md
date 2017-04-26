@@ -1,6 +1,6 @@
 # npmdoc-jquery-validation
 
-#### api documentation for  [jquery-validation (v1.16.0)](http://jqueryvalidation.org/)  [![npm package](https://img.shields.io/npm/v/npmdoc-jquery-validation.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jquery-validation) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jquery-validation.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jquery-validation)
+#### basic api documentation for  [jquery-validation (v1.16.0)](http://jqueryvalidation.org/)  [![npm package](https://img.shields.io/npm/v/npmdoc-jquery-validation.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jquery-validation) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jquery-validation.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jquery-validation)
 
 #### Client-side form validation made easy
 
@@ -90,7 +90,8 @@
         "test": "grunt"
     },
     "title": "jQuery Validation Plugin",
-    "version": "1.16.0"
+    "version": "1.16.0",
+    "bin": {}
 }
 ```
 
